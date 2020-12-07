@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('./fonts/ZillaSlab-Regular.ttf') format('truetype');
+}
+
+html, body {
+    font-family: 'Zilla Slab';
+}
+
+p {
+    background-color: antiquewhite;
+}
